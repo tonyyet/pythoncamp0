@@ -35,9 +35,10 @@ git push：将这些修订推送到远端的服务器
 既然讲到github，那当然不能不提上面的一些神奇的repo。以下是我知道的一些较为有趣的项目，大家不妨参考一下：
 
 [Bloomberg-Beta Operating Manual](https://github.com/Bloomberg-Beta/Manual)
-[德国政府的宪法及法律](https://github.com/bundestag/gesetze)
+
 [《连线杂志Wired》也曾在github上发表过关于github的文章](http://www.wired.com/2012/02/github-revisited/)
 
+[德国政府的宪法及法律](https://github.com/bundestag/gesetze)
 
 
 现在其实github官方有专门的政府机构页面，从他们列出来的清单看，大多数欧美国家的政府都有用github来推进他们自身的政府信息公开的进程，有些你甚至还可以参与到法律制订的讨论过程当中去呢。
